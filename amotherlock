@@ -73,7 +73,7 @@ spawn(function()
 end)    
 
 mouse.KeyDown:Connect(function(k)
-    if k ~= "q" then return end
+    if k ~= "c" then return end
     if Enabled then
         Enabled = false
        -- guimain[Plr.Name].Frame.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
