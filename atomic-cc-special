@@ -9,9 +9,9 @@
 
 ]]--
                                               
-getgenv().WhitelistKey = atomic.whitelist.key
+getgenv().WhitelistKey = "" 
 
-getgenv().Version = atomic.version
+getgenv().Version =  ""
 
 
 -- do not try to execute this is you are not WHITELISTED.
