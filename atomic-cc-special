@@ -7,11 +7,7 @@
   / ____ \ || (_) | | | | | | | (__ | (_| (__ 
  /_/    \_\__\___/|_| |_| |_|_|\___(_)___\___|
 
-]]--
-                                              
-getgenv().WhitelistKey = "" 
-
-getgenv().Version =  ""
+--]]
 
 
 -- do not try to execute this is you are not WHITELISTED.
