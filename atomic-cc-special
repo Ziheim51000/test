@@ -8,6 +8,10 @@
  /_/    \_\__\___/|_| |_| |_|_|\___(_)___\___|
 
 ]]--
+                                              
+getgenv().WhitelistKey = "" -- enter your key ofc
+
+getgenv().Version = "" -- Mobile or PC, fully optimizes the script depending on your device.
 
 
 
