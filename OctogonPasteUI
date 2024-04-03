@@ -61,16 +61,16 @@ local sections = {}
 --local themes = {}
 local theme = {
     accent = Color3.fromRGB(59, 84, 154),
-    lightcontrast = Color3.fromRGB(30, 30, 30),
+    lightcontrast = Color3.fromRGB(10, 10, 10),
     darkcontrast = Color3.fromRGB(20, 20, 20),
-    outline = Color3.fromRGB(8, 8, 8),
-    inline = Color3.fromRGB(40, 40, 40),
+    outline = Color3.fromRGB(10, 10, 10),
+    inline = Color3.fromRGB(10, 10, 10),
     textcolor = Color3.fromRGB(255, 255, 255),
     textdark = Color3.fromRGB(175, 175, 175),
     textborder = Color3.fromRGB(0, 0, 0),
     cursoroutline = Color3.fromRGB(10, 10, 10),
     font = 2,
-    textsize = 13
+    textsize = 15
 }
 -- // utility Functions
 do
